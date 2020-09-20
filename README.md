@@ -1,2 +1,2 @@
-# digital_sundial
+# Digital Sundial
 Digital numbers sundial
